@@ -81,6 +81,8 @@ Calculation:
 
 <img width="291" height="265" alt="6" src="https://github.com/user-attachments/assets/ced9754e-174e-4475-af8c-84d80d0cfed1" />
 
+
+
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
